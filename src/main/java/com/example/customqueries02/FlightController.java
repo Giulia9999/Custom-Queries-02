@@ -70,4 +70,7 @@ public class FlightController {
         return flightRepo.findByStatus(p1, p2, pageable);
     }
 
+    /*
+     * DOCUMENTAZIONE API: https://documenter.getpostman.com/view/26043911/2s93eU4FGE
+     */
 }
